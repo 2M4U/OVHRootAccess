@@ -1,6 +1,7 @@
 
 
-# GAIN ROOT ACCESS ON OVH
+# HOW TO GAIN ROOT ACCESS ON OVH VPS 
+#### *YOU **MUST** OWN THE VPS*
 
 *Bought an OVH and got given user `ubuntu` etc? Here's how to fix that issue.*
 
